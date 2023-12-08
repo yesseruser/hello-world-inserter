@@ -8,6 +8,10 @@ This extension lets you insert `"Hello, world!"` anywhere in your project, by ru
 
 ## Release Notes
 
+### 1.0.1
+
+Improved the readme and some other documents.
+
 ### 1.0.0
 
 Initial release of Hello World Inserter.
