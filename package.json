@@ -1,6 +1,6 @@
 {
-  "name": "firstext",
-  "displayName": "FirstExt",
+  "name": "hello-world-inserter",
+  "displayName": "Hello World Inserter",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -13,8 +13,8 @@
   "main": "./extension.js",
   "contributes": {
     "commands": [{
-      "command": "firstext.helloWorld",
-      "title": "Hello World"
+      "command": "firstext.insertHelloWorld",
+      "title": "Insert Hello World"
     }]
   },
   "scripts": {
