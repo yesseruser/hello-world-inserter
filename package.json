@@ -6,7 +6,7 @@
   "repository": "https://github.com/yesseruser/hello-world-inserter",
   "publisher": "yesseruser",
   "engines": {
-    "vscode": "^1.85.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Snippets"
